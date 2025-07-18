@@ -34,7 +34,7 @@
 
 | Project | Description | Demo Video |
 |--------|-------------|------------|
-| **LoRa Vertical Garden** | Hydroponics system using ESP32 + LoRa | [🎥 Watch Demo]([https://your-video-link.com/loragarden](https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F61556155225037%2Fvideos%2F758532979956549%2F&show_text=false&width=267&t=0)) |
+| **LoRa Vertical Garden** | Hydroponics system using ESP32 + LoRa | [🎥 Watch Demo] (https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F61556155225037%2Fvideos%2F758532979956549%2F&show_text=false&width=267&t=0) |
 | **Smart Attendance** | Face recognition + real-time attendance logging | [🎥 Watch Demo](https://your-video-link.com/facerec) |
 | **Automated Watering System** | Monitors soil pH & EC with cloud sync | [🎥 Watch Demo](https://your-video-link.com/iotwatering) |
 
