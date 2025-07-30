@@ -54,6 +54,8 @@
 | **📁 Jand Inventory System** | Custom inventory solution tailored for local enterprise |
 | **📊📁 Faculty Evaluation System** | Faculty Evaluation app with AI recommender, for trainings and seminars |
 | **🧑‍💼 CdM HRMS** | Human Resource Management System for Colegio de Montalban |
+| **🧾 Wil's Inventory System** | Inventory system with RFID and barcode scanner for employees |
+| **☕ Deja Brew Inventory System** | SCM-enabled inventory with barcode scanning support |
 
 ---
 
