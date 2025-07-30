@@ -60,11 +60,11 @@
 | Project | Description | Demo |
 |--------|-------------|------|
 | **👶 Portable Baby Care Box** | Sanitizer box for baby needs built with Raspberry Pi | _[🎥 Coming Soon](https://www.youtube.com/watch?v=EtHmSdz5mVE)|
-| **🌿 LoRa Vertical Garden** | Smart hydroponics system using ESP32 and LoRa communication | _[🎥 Coming Soon]_ |
-| **⌚ SPO2 & Heart Rate Reader** | Watch-style device for vital signs tracking with SMS alerts | _[🎥 Coming Soon](https://www.facebook.com/reel/246212898523480) |
+| **🌿 LoRa Vertical Garden** | Smart hydroponics system using ESP32 and LoRa communication | _[🎥 Coming Soon](https://your-video-link.com/iotwatering) |
+| **⌚ SPO2 & Heart Rate Reader** | Watch-style device for vital signs tracking with SMS alerts | _[🎥 Watch Demo](https://www.facebook.com/reel/246212898523480) |
 | **💵 Paper Bill Recognition** | Recognizes Philippine paper bills using image processing | _[🎥 Watch Demo](https://www.facebook.com/61556155225037/videos/758532979956549)|
 | **🧠 Smart Attendance** | Face recognition with real-time attendance logging | [🎥 Coming Soon](https://your-video-link.com/facerec) |
-| **💧 Automated Watering System** | Monitors soil pH/EC and syncs data to the cloud | [🎥 Watch Demo](https://your-video-link.com/iotwatering) |
+| **💧 Automated Watering System** | Monitors soil pH/EC and syncs data to the cloud | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
 
 ---
 
