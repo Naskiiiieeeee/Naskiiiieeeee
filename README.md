@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Jonas 👋</h1>
+<h1 align="center">Hey there, I'm Jonas</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> | <b>IoT & AI Enthusiast</b> | <b>PHP Wizard 🧙‍♂️</b>
+  <b>Software Developer</b> | <b>IoT & AI Enthusiast</b> | <b>Think Twice Code Once 🧙‍♂️</b>
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Graduate passionate about building real-world systems
+- 🎓 BSIT graduate from Colegio de Montalban, currently pursuing a Master of Science in Information Technology at LCUP. Passionate about building real-world systems that solve real-world problems.
 - 🧠 I love solving problems with code—from web systems to IoT devices
 - 🔭 Currently exploring AI integration in automation projects
-- 💬 Let’s talk about PHP, MVC structures, and decision trees 😎
+- 💬 Let’s talk about PHP and MVVM structures 😎
 
 ---
 
@@ -52,6 +52,8 @@
 | **📦 Inventory System** | Barcode-enabled inventory tracking and stock management |
 | **💳 Pilotos POS System** | Point-of-sale system with QR code integration |
 | **📁 Jand Inventory System** | Custom inventory solution tailored for local enterprise |
+| **📊📁 Faculty Evaluation System** | Faculty Evaluation app with AI recommender, for trainings and seminars |
+| **🧑‍💼 CdM HRMS** | Human Resource Management System for Colegio de Montalban |
 
 ---
 
@@ -59,7 +61,7 @@
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| **👶 Portable Baby Care Box** | Sanitizer box for baby needs built with Raspberry Pi | _[🎥 Coming Soon](https://www.youtube.com/watch?v=EtHmSdz5mVE)|
+| **👶 Portable Baby Care Box** | Sanitizer box for baby needs built with Raspberry Pi | _[🎥 Watch Demo](https://www.youtube.com/watch?v=EtHmSdz5mVE)|
 | **🌿 LoRa Vertical Garden** | Smart hydroponics system using ESP32 and LoRa communication | _[🎥 Coming Soon](https://your-video-link.com/iotwatering) |
 | **⌚ SPO2 & Heart Rate Reader** | Watch-style device for vital signs tracking with SMS alerts | _[🎥 Watch Demo](https://www.facebook.com/reel/246212898523480) |
 | **💵 Paper Bill Recognition** | Recognizes Philippine paper bills using image processing | _[🎥 Watch Demo](https://www.facebook.com/61556155225037/videos/758532979956549)|
