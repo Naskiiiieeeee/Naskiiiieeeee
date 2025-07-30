@@ -34,6 +34,48 @@
 ---
 
 ## 🛠️ Featured Applications
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/admission.jpg" width="250"/><br/>
+      <strong>🎓 Admission Exam System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/faculty_availability.jpg" width="250"/><br/>
+      <strong>👨‍🏫 Faculty Availability System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/byod.jpg" width="250"/><br/>
+      <strong>📱 BYOD System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/liksaya.jpg" width="250"/><br/>
+      <strong>📊 Liksaya Tabulation System</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/bicb.jpg" width="250"/><br/>
+      <strong>⛪ Parish Information System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/gso.jpg" width="250"/><br/>
+      <strong>🏢 General Services Office System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/titleDefense.jpg" width="250"/><br/>
+      <strong>🗂️ Title Defense Tracker App</strong>
+    </td>
+    <td align="center">
+      <img src="assets/titleDefense.jpg" width="250"/><br/>
+      <strong>📊📁 Faculty Evaluation System</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Developed Applications
 
 | System | Description |
 |--------|-------------|
