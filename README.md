@@ -73,8 +73,20 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/evaluationS.jpg" width="250"/><br/>
-      <strong>📊📁 Faculty Evaluation System</strong>
+      <img src="assets/portrait.jpg" width="250"/><br/>
+      <strong>📊📁 Portrait Selling App</strong>
+    </td>
+    <td align="center">
+      <img src="assets/warehouse.jpg" width="250"/><br/>
+      <strong>📦Warehouse Management System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/queueing.jpg" width="250"/><br/>
+      <strong>📊Registrar Queueing App</strong>
+    </td>
+    <td align="center">
+      <img src="assets/deja.jpg" width="250"/><br/>
+      <strong>☕Deja Brew App</strong>
     </td>
   </tr>
 </table>
@@ -104,7 +116,8 @@
 | **🧑‍💼 CdM HRMS** | Human Resource Management System for Colegio de Montalban |
 | **🧾 Wil's Inventory System** | Inventory system with RFID and barcode scanner for employees |
 | **☕ Deja Brew Inventory System** | SCM-enabled inventory with barcode scanning support |
-| **🏢 Registrar Queuing System** | Manage and Tracks request and inquiries |
+| **🏢 Registrar Queueing System** | Manage and Tracks request and inquiries |
+| **🏢 Portrait Selling App** | Manage users portrait designs, Post and Bid |
 
 ---
 
