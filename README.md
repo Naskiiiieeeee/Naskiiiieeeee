@@ -67,7 +67,7 @@
       <strong>🗂️ Title Defense Tracker App</strong>
     </td>
     <td align="center">
-      <img src="assets/titleDefense.jpg" width="250"/><br/>
+      <img src="assets/evaluationS.jpg" width="250"/><br/>
       <strong>📊📁 Faculty Evaluation System</strong>
     </td>
   </tr>
