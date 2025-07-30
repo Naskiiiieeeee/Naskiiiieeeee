@@ -27,6 +27,7 @@
 | ** Pilotos Point of Sales system ** | Manage POS with QR code Integration | ![ledger-ui](https://your-image-url.com/ledger.png) |
 | **LAN-BASED Inventory System** | Manages with Barcode Integration  | ![ledger-ui](https://your-image-url.com/ledger.png) |
 | **LAN-BASED Admission Examination App** | Manages new student applicant, Questionnaires, Examination Results  | ![ledger-ui](https://your-image-url.com/ledger.png) |
+| **BYOD System** | Manages Users Devices, Device info. Access and restrictions with SMS API  | ![ledger-ui](https://your-image-url.com/ledger.png) |
 
 > _Note: You can upload images in GitHub repo `/assets` folder and link using raw.githubusercontent.com_
 
