@@ -24,7 +24,7 @@
 |--------|-------------|------------|
 | **GSO Admin System** | Web-based system to manage school services and inventory | ![gso-ui](https://your-image-url.com/gso.png) |
 | **Faculty Evaluation** | System that evaluates and recommends training using AI | ![faculty-ui](https://your-image-url.com/faculty.png) |
-| **Pilotos POS ** | Manage POS with QR code Integration | ![ledger-ui](https://your-image-url.com/ledger.png) |
+| **Pilotos Point of Sales system ** | Manage POS with QR code Integration | ![ledger-ui](https://your-image-url.com/ledger.png) |
 | **LAN-BASED Inventory System** | Manages with Barcode Integration  | ![ledger-ui](https://your-image-url.com/ledger.png) |
 
 > _Note: You can upload images in GitHub repo `/assets` folder and link using raw.githubusercontent.com_
