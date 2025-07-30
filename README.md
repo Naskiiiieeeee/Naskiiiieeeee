@@ -71,6 +71,12 @@
       <strong>📊📁 Faculty Evaluation System</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/evaluationS.jpg" width="250"/><br/>
+      <strong>📊📁 Faculty Evaluation System</strong>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -98,6 +104,7 @@
 | **🧑‍💼 CdM HRMS** | Human Resource Management System for Colegio de Montalban |
 | **🧾 Wil's Inventory System** | Inventory system with RFID and barcode scanner for employees |
 | **☕ Deja Brew Inventory System** | SCM-enabled inventory with barcode scanning support |
+| **🏢 Registrar Queuing System** | Manage and Tracks request and inquiries |
 
 ---
 
