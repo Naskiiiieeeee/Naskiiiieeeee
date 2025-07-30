@@ -22,9 +22,9 @@
 
 | Project | Description | Screenshot |
 |--------|-------------|------------|
-| **GSO Admin System** | Web-based system to manage school services and inventory | ![gso-ui](/assets/gso) |
+| **GSO Admin System** | Web-based system to manage school services and inventory | ![gso-ui](/assets/gso.jpg) |
 | **Faculty Evaluation** | System that evaluates and recommends training using AI | ![faculty-ui](https://your-image-url.com/faculty.png) |
-| **Pilotos Point of Sales system ** | Manage POS with QR code Integration | ![ledger-ui](https://your-image-url.com/ledger.png) |
+| ** Pilotos Point of Sales system ** | Manage POS with QR code Integration | ![ledger-ui](https://your-image-url.com/ledger.png) |
 | **LAN-BASED Inventory System** | Manages with Barcode Integration  | ![ledger-ui](https://your-image-url.com/ledger.png) |
 
 > _Note: You can upload images in GitHub repo `/assets` folder and link using raw.githubusercontent.com_
@@ -55,9 +55,9 @@
 
 ## 📫 Connect with Me
 
-- Facebook: [Jonas Macapagal](https://facebook.com/YOUR_PROFILE)
-- Email: [yourname@example.com](mailto:yourname@example.com)
-- YouTube (for project demos): [My IoT Channel](https://youtube.com/YOUR_CHANNEL)
+- Facebook: [Jonas Macapagal](https://facebook.com/clydealdrich04)
+- Email: [Humblebeast1218@gmail.com](humblebeast1218@gmail.com)
+- Facebook Page (for project demos): [JMCA-SOLUTIONS](https://facebook.com/profile.php?id=61556155225037)
 
 ---
 
