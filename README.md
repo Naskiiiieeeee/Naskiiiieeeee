@@ -24,6 +24,7 @@
 |--------|-------------|------------|
 | **GSO Admin System** | Web-based system to manage school services and inventory | ![gso-ui](https://your-image-url.com/gso.png) |
 | **Faculty Evaluation** | System that evaluates and recommends training using AI | ![faculty-ui](https://your-image-url.com/faculty.png) |
+| **Pilotos POS and Inventory System** | Manages student balances and payments in real time | ![ledger-ui](https://your-image-url.com/ledger.png) |
 | **Student Ledger System** | Manages student balances and payments in real time | ![ledger-ui](https://your-image-url.com/ledger.png) |
 
 > _Note: You can upload images in GitHub repo `/assets` folder and link using raw.githubusercontent.com_
