@@ -17,7 +17,7 @@
 - 🎓 BSIT graduate from Colegio de Montalban, currently pursuing a Master of Science in Information Technology at LCUP. Passionate about building real-world systems that solve real-world problems.
 - 🧠 I love solving problems with code—from web systems to IoT devices
 - 🔭 Currently exploring AI integration in automation projects
-- 💬 Let’s talk about PHP and MVVM structures 😎
+- 💬 Let’s talk about Web Development and IoT projects 😎
 
 ---
 
