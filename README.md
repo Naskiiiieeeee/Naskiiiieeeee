@@ -48,10 +48,6 @@
       <img src="assets/byod.jpg" width="250"/><br/>
       <strong>📱 BYOD System</strong>
     </td>
-    <td align="center">
-      <img src="assets/liksaya.jpg" width="250"/><br/>
-      <strong>📊 Liksaya Tabulation System</strong>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -65,10 +61,6 @@
     <td align="center">
       <img src="assets/titleDefense.jpg" width="250"/><br/>
       <strong>🗂️ Title Defense Tracker App</strong>
-    </td>
-    <td align="center">
-      <img src="assets/evaluationS.jpg" width="250"/><br/>
-      <strong>📊📁 Faculty Evaluation System</strong>
     </td>
   </tr>
   <tr>
@@ -84,9 +76,19 @@
       <img src="assets/queueing.jpg" width="250"/><br/>
       <strong>📊Registrar Queueing App</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="assets/deja.jpg" width="250"/><br/>
       <strong>☕Deja Brew App</strong>
+    </td>
+    <td align="center">
+      <img src="assets/evaluationS.jpg" width="250"/><br/>
+      <strong>📊📁 Faculty Evaluation System</strong>
+    </td>
+    <td align="center">
+      <img src="assets/liksaya.jpg" width="250"/><br/>
+      <strong>📊 Liksaya Tabulation System</strong>
     </td>
   </tr>
 </table>
