@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Jonas</h1>
 
 <p align="center">
-  <b>Software Developer</b> | <b>IoT & AI Enthusiast</b> | <b>Think Twice Code Once 🧙‍♂️</b>
+  <b>Software Developer</b> | <b>Think Twice Code Once</b> | <b> Software Development</b>
 </p>
 
 <p align="center">
