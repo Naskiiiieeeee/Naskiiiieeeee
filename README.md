@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:humblebeast1218@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://facebook.com/clydealdrich04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"></a>
   <a href="https://facebook.com/profile.php?id=61556155225037"><img src="https://img.shields.io/badge/JMCA--SOLUTIONS-ff5e00?style=flat&logo=meta&logoColor=white" alt="page"></a>
+  <a href="https://facebook.com/clydealdrich04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"></a>
 </p>
 
 ---
