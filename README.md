@@ -145,6 +145,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naskiiiieeeee&theme=darkhub&no-bg=true&margin-w=10" />
+</p>
+
+---
+
 ## 📫 Let’s Connect
 
 - 📧 Email: [humblebeast1218@gmail.com](mailto:humblebeast1218@gmail.com)
