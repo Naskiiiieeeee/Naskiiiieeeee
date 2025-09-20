@@ -123,6 +123,7 @@
 | **☕ Deja Brew Inventory System** | SCM-enabled inventory with barcode scanning support |
 | **🏢 Registrar Queueing System** | Manage and Tracks request and inquiries |
 | **🏢 Portrait Selling App** | Manage users portrait designs, Post and Bid |
+| **🏪 PoS and Inventory System** | Manage Orders from Kiosk, Set Monthly Sales Tracking |
 
 ---
 
