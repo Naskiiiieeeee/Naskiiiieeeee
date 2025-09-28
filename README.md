@@ -124,7 +124,7 @@
 | **🏢 Registrar Queueing System** | Manage and Tracks request and inquiries |
 | **🏢 Portrait Selling App** | Manage users portrait designs, Post and Bid |
 | **🏪 PoS and Inventory System** | Manage Orders from Kiosk, Set Monthly Sales Tracking |
-| **🏛️Blotter System ** | Desktop Application with the integration of Fingerprint , Signature pad and Web Camera devices |
+| **🏛️Blotter System** | Desktop Application with the integration of Fingerprint , Signature pad and Web Camera devices |
 
 ---
 
