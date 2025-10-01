@@ -163,7 +163,7 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [jmcasolution.code withme@gmail.com](mailto:jmcasolution.code.withme@gmail.com)
+- 📧 Email: [jmca.solutions.codewith.me@gmail.com](mailto:jmca.solutions.codewith.me@gmail.com)
 - 📘 Facebook: [Jonas Macapagal](https://facebook.com/clydealdrich04)
 - 📂 Project Page: [JMCA-SOLUTIONS](https://facebook.com/profile.php?id=61556155225037)
 
