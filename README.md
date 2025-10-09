@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inertia.js-800080?style=for-the-badge&logo=inertia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razor%20Pages-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Built%20with%20Blazor%20WebAssembly-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
