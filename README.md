@@ -126,9 +126,10 @@
 | **🧾 Wil's Inventory System** | Inventory system with RFID and barcode scanner for employees |
 | **☕ Deja Brew Inventory System** | SCM-enabled inventory with barcode scanning support |
 | **🏢 Registrar Queueing System** | Manage and Tracks request and inquiries |
-| **🏢 Portrait Selling App** | Manage users portrait designs, Post and Bid |
+| **🖼️ Portrait Selling App** | Manage users portrait designs, Post and Bid |
 | **🏪 PoS and Inventory System** | Manage Orders from Kiosk, Set Monthly Sales Tracking |
 | **🏛️Blotter System** | Desktop Application with the integration of Fingerprint , Signature pad and Web Camera devices |
+| **🏖️Resort Management System** | Progressive Web Application with Sales tracking and Reservation Management |
 
 ---
 
