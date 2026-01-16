@@ -143,6 +143,7 @@
 | **💵 Paper Bill Recognition** | Recognizes Philippine paper bills using image processing | _[🎥 Watch Demo](https://www.facebook.com/61556155225037/videos/758532979956549)|
 | **🧠 Smart Attendance** | Face recognition with real-time attendance logging | [🎥 Coming Soon](https://your-video-link.com/facerec) |
 | **💧 Automated Watering System** | Monitors soil pH/EC and syncs data to the cloud | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
+| **💊 Pill Dispencer** | Prototype that simple sends command from mobile app to esp32 | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
 
 ---
 
