@@ -144,6 +144,7 @@
 | **🧠 Smart Attendance** | Face recognition with real-time attendance logging | [🎥 Coming Soon](https://your-video-link.com/facerec) |
 | **💧 Automated Watering System** | Monitors soil pH/EC and syncs data to the cloud | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
 | **💊 Pill Dispencer** | Prototype that simple sends command from mobile app to esp32 | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
+| **😎 Smart Head Band** | Smart obstacle detection system for blind individuals | [🎥 Coming Soon](https://your-video-link.com/iotwatering) |
 
 ---
 
